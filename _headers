@@ -2,3 +2,4 @@
 X-Frame-Options: DENY
 Content-Security-Policy: script-src 'self'
 Header always set X-Content-Type-Options "nosniff"
+Referrer-Policy: strict-origin-when-cross-origin
